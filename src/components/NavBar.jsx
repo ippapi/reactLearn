@@ -29,7 +29,7 @@ const NavBar = () => {
             id="navbar-sticky"
           >
             <ul class="px-4 py-2 flex flex-col bg-transparent font-medium md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
-                <NavElement text={"Home"} link={"/"}/>
+                <NavElement text={"Home"} link={"/"} />
                 <NavElement text={"About"} link={"/About"}/>
                 <NavElement text={"Service"} link={"/Service"}/>
             </ul>
