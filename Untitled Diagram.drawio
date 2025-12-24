@@ -69,7 +69,7 @@
         <mxCell id="kkFrl1cS58_9KARSF3OF-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Training&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="317" width="1102" x="-143" y="68" as="geometry" />
         </mxCell>
-        <mxCell id="kkFrl1cS58_9KARSF3OF-5" parent="kkFrl1cS58_9KARSF3OF-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Evidence" vertex="1">
+        <mxCell id="kkFrl1cS58_9KARSF3OF-5" parent="kkFrl1cS58_9KARSF3OF-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Evidence&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="106" width="880" x="206" y="185" as="geometry" />
         </mxCell>
         <mxCell id="Wm_M9jqcckibKQRUgR4U-1" parent="kkFrl1cS58_9KARSF3OF-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;span&gt;&quot;Tổ chức sử dụng trái phép chất ma tuý&quot; theo quy định tại Khoản 1 Điều 255 Bộ luật Hình sự với khung hình phạt tù từ 2 năm đến 7 năm.&lt;/span&gt;" vertex="1">
@@ -138,7 +138,7 @@
         <mxCell id="Wm_M9jqcckibKQRUgR4U-14" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Testing&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="317" width="1102" x="-143" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="Wm_M9jqcckibKQRUgR4U-15" parent="Wm_M9jqcckibKQRUgR4U-14" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Evidence" vertex="1">
+        <mxCell id="Wm_M9jqcckibKQRUgR4U-15" parent="Wm_M9jqcckibKQRUgR4U-14" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Evidence&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="106" width="880" x="206" y="185" as="geometry" />
         </mxCell>
         <mxCell id="Wm_M9jqcckibKQRUgR4U-16" parent="Wm_M9jqcckibKQRUgR4U-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;span&gt;&quot;Tổ chức sử dụng trái phép chất ma tuý&quot; theo quy định tại Khoản 1 Điều 255 Bộ luật Hình sự với khung hình phạt tù từ 2 năm đến 7 năm.&lt;/span&gt;" vertex="1">
